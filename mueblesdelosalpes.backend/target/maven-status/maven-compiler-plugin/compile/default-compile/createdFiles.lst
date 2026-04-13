@@ -3,11 +3,13 @@ co\edu\uniandes\csw\mueblesdelosalpes\logica\interfaces\IServicioVendedoresMockR
 co\edu\uniandes\csw\mueblesdelosalpes\logica\interfaces\IServicioCatalogoMockLocal.class
 co\edu\uniandes\csw\mueblesdelosalpes\logica\interfaces\IServicioRegistroMockLocal.class
 co\edu\uniandes\csw\mueblesdelosalpes\dto\Profesion.class
+co\edu\uniandes\csw\mueblesdelosalpes\dto\Oferta.class
 co\edu\uniandes\csw\mueblesdelosalpes\dto\Usuario.class
 co\edu\uniandes\csw\mueblesdelosalpes\logica\ejb\ServicioCatalogoMock.class
 co\edu\uniandes\csw\mueblesdelosalpes\logica\ejb\ServicioSeguridadMock.class
 co\edu\uniandes\csw\mueblesdelosalpes\logica\interfaces\IServicioSeguridadMockLocal.class
 co\edu\uniandes\csw\mueblesdelosalpes\dto\Ciudad.class
+co\edu\uniandes\csw\mueblesdelosalpes\logica\interfaces\IServicioOfertaMockLocal.class
 co\edu\uniandes\csw\mueblesdelosalpes\dto\TipoUsuario.class
 co\edu\uniandes\csw\mueblesdelosalpes\logica\interfaces\IServicioCatalogoMockRemote.class
 co\edu\uniandes\csw\mueblesdelosalpes\dto\Mueble.class
@@ -28,4 +30,5 @@ co\edu\uniandes\csw\mueblesdelosalpes\dto\Vendedor.class
 co\edu\uniandes\csw\mueblesdelosalpes\logica\interfaces\IServicioCarritoMockLocal.class
 co\edu\uniandes\csw\mueblesdelosalpes\excepciones\OperacionInvalidaException.class
 co\edu\uniandes\csw\mueblesdelosalpes\logica\interfaces\IServicioVendedoresMockLocal.class
+co\edu\uniandes\csw\mueblesdelosalpes\logica\ejb\ServicioOfertaMock.class
 co\edu\uniandes\csw\mueblesdelosalpes\logica\interfaces\IServicioSeguridadMockRemote.class
